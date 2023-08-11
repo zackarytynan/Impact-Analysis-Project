@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd  # think this would be used if I were to read data in from a csv or xcel file. Making a 'dataframe'
 import matplotlib.pyplot as plt  # pyplot is a specific (function?) "module" of matplotlib that works like MATlab stuff.
 
-""" Test plot section. 
+""" Test plot section. Test
 
 #Data for plotting
 t = np.arange(0.01,1.00,.01)  #time range, 0 to 1 second, .01 sec intervals
